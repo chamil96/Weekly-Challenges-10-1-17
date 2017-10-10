@@ -1,0 +1,11 @@
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.deps.json
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.runtimeconfig.json
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.runtimeconfig.dev.json
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.dll
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.pdb
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.csprojResolveAssemblyReference.cache
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.csproj.CoreCompileInputs.cache
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.AssemblyInfoInputs.cache
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.AssemblyInfo.cs
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.dll
+/Users/chrishamilton/Projects/WeeklyChallenges10.1.17/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.pdb
